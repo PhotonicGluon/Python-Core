@@ -146,4 +146,5 @@ cython_debug/
 
 # Others
 .DS_Store
+CommitInstructions.txt
 ProcessNotebook.py
