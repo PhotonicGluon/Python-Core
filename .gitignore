@@ -148,6 +148,7 @@ cython_debug/
 .DS_Store
 CommitInstructions.txt
 ProcessNotebook.py
+ProcessNotebooks.py
 
 Course Files/07 - Exceptions and Files/my-file.txt
 Course Files/07 - Exceptions and Files/alice-excerpt.txt
