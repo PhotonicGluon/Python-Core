@@ -30,7 +30,7 @@ Double-click on the notebook to open it.
 First, you'll need to install Python. This course uses Python 3 (more specifically Python 3.6 and above), so you'll need to install that first. Python 3 can be downloaded from [Python.org](https://www.python.org/downloads/).
 - Choose the Python 3 version that suits you. This course assumes that the Python 3 version chosen is 3.6 and above.
 
-Next [download this repository](https://github.com/Oxyhydride/Python-Core/archive/refs/heads/main.zip) and unzip it. A folder named `Python-Core-main` should be obtained.
+Next [download this repository](https://github.com/PhotonicGluon/Python-Core/archive/refs/heads/main.zip) and unzip it. A folder named `Python-Core-main` should be obtained.
 
 Now open the **Command Prompt** (on Windows) or **Terminal** (for Unix) and navigate to the `Python-Core-main` folder. You can do that by running
 ```bash
